@@ -1,3 +1,6 @@
-22222222222222
-323232
-fdsafjjasld;fj
+#include <stdio.h>
+int main()
+{
+    printf("hello world!");
+    return 0;
+}
