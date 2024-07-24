@@ -27,7 +27,7 @@ defaults:
   # Site logo
   logo: 
   # Site avatar
-  avatar: https://avatars.githubusercontent.com/u/29709035 #/images/redefine-avatar.svg
+  avatar: /header.jpg # https://avatars.githubusercontent.com/u/29709035 #/images/redefine-avatar.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
