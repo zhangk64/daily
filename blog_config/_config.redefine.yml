@@ -410,14 +410,13 @@ plugins:
     enable: false # Whether to enable
   # Aplayer. See https://github.com/DIYgod/APlayer
   aplayer:
-    enable: false # Whether to enable
-    type: fixed # fixed, mini
+    enable: true # Whether to enable
+    type: mini # fixed, mini
     audios:
-      - name: # audio name
-        artist: # audio artist
-        url: # audio url
-        cover: # audio cover url
-        lrc: # audio cover lrc
+      - name: 所念皆星河
+        artist: CMJ
+        url: /snjxh.mp3
+        cover: /snjxh.jpg
 #      - name: # audio name
 #        artist: # audio artist
 #        url: # audio url
